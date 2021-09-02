@@ -1,1 +1,0 @@
-export default "/dist/img/green_vase.png";
