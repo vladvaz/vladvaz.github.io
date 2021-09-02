@@ -1,5 +1,5 @@
 import React from "../../_snowpack/pkg/react.js";
-import t from "../img/green_vase.png.proxy.js";
+import t from "../img/black-linen.png.proxy.js";
 let ImageAsset = ({x, y}) => {
   let size = 550;
   return /* @__PURE__ */ React.createElement("div", {

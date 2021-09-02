@@ -208,12 +208,12 @@
             {
                 "startDate": "2019/08/01",
                 "endDate": "Present",
-                "title": "Frontend Developer at Volkswagen project",
+                "title": "Frontend Developer at project for the automobile industry",
                 "subTitle": "Capgemini Engineering",
                 "bulletPoints": [
-                    "Development of web applications (Apple Music and Spotify) for Volkswagen in-vehicle infotainment;",
+                    "Development of web applications for an in-vehicle infotainment;",
                     "Code coverage and unit testing using Jasmine;",
-                    "Correction and maintenance of bugs."
+                    "Correction of bugs."
                 ],
                 "technologies": [
                     "Angular",

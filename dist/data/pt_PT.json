@@ -211,9 +211,9 @@
                 "title": "Desenvolvedor front end para aplicações web para sistemas infotainement",
                 "subTitle": "Capgemini Engineering",
                 "bulletPoints": [
-                    "Development of web applications (Apple Music and Spotify) for Volkswagen in-vehicle infotainment;",
-                    "Code coverage and unit testing using Jasmine;",
-                    "Correction and maintenance of bugs."
+                    "Desenvolvimento de aplicações web para sistemas infotainment de veículos automovéis",
+                    "Realização de testes unitários com Jasmine e manutenção de código",
+                    "Correção de erros."
                 ],
                 "technologies": [
                     "Angular",
