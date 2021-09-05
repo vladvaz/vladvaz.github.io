@@ -1,1 +1,0 @@
-export default "/dist/img/black-linen.png";
